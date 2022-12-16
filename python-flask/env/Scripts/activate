@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\VS Code project\Smstr 5 VS Code\PWM\UAS_simple_point_of_sale\python-flask\env"
+VIRTUAL_ENV="C:\Users\M-S-I\Documents\IBDA Semester 5\IBDA3031 Pengembangan Web Modern\code\UAS_simple_point_of_sale\python-flask\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
