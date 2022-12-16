@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\VS Code project\Smstr 5 VS Code\PWM\UAS_simple_point_of_sale\python-flask\env
+set VIRTUAL_ENV=C:\Users\M-S-I\Documents\IBDA Semester 5\IBDA3031 Pengembangan Web Modern\code\UAS_simple_point_of_sale\python-flask\env
 
 if not defined PROMPT set PROMPT=$P$G
 
